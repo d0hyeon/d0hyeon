@@ -11,9 +11,9 @@ ehgus6887@gmail.com
 - 버키             -              2018.12 ~ 2020.07<br/>
 <h3 align="center">  :art: Stack :art: </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" />
   
