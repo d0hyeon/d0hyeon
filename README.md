@@ -1,11 +1,14 @@
-### Hi 👋
-<br/>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" noreferrer noopner>
-    <img src="https://github-readme-stats.vercel.app/api?username=d0hyeon" alt="d0hyeon's GitHub stats" title="d0hyeon's GitHub stats" />
-  </a>
-</p>
+### Frontend 김도현
+ehgus6887@gmail.com
 
+<br/>
+
+### Experience
+
+- 화이트 큐브        -        2024.06 ~2025.12 <br/>
+- Toss payments   -     2022.06 ~ 2023.08 <br/>
+- Brandi          -             2021.06 ~ 2022.06<br/>
+- 버키             -              2018.12 ~ 2020.07<br/>
 <h3 align="center">  :art: Stack :art: </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
